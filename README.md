@@ -11,7 +11,7 @@
 | **Blockify Ad Blocker** | Блокировщик рекламного контента на Spotify. | [Интернет-магазин Chrome](https://chromewebstore.google.com/detail/spotify-ad-blocker-blocki/nfmlkliedggdodlbgghmmchhgckjoaml) |
 | **SponsorBlock** | Автоматический пропуск интеграций. | [Интернет-магазин Chrome](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) |
 ## ⚙️ Конфигурации и ПО
-
+> **Важно:** Если данные файлы не поддерживаются на вашем ПК, откройте оригинальные репозитории и выберите релиз под ваши характеристики (x86/x64, версия OS).
 * **[zapret (Flowseal)](https://github.com/Flowseal/zapret-discord-youtube):** Средство для тонкой настройки сетевых пакетов и обхода ограничений на уровне DPI.
 * **[Throne](https://github.com/throneproj/Throne):** Универсальный менеджер для автоматизации сценариев доступа к сетевым ресурсам и игровым сервисам.
 * **[White-list configs](https://github.com/igareck/vpn-configs-for-russia):** Оптимизированные наборы правил от `igareck` для стабильной работы соединений.
