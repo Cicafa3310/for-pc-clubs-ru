@@ -1,25 +1,32 @@
-# 🛠 PC Club Environment Setup
+# PC Club Environment Setup
 
-Репозиторий для быстрой настройки рабочего окружения в компьютерных клубах. Включает в себя необходимые расширения для браузера и конфигурации для оптимизации сетевого доступа.
-
-## 🧩 Расширения браузера
-
-| Название | Описание | Ссылка |
-| :--- | :--- | :--- |
-| **UltraSurf** | Инструмент обеспечения приватности. | [Интернет-магазин Chrome](https://chromewebstore.google.com/detail/ultrasurf-security-privac/mjnbclmflcpookeapghfhapeffmpodij) |
-| **Adblocker for Youtube** | Блокировка рекламного контента на YT. | [Интернет-магазин Chrome](https://chromewebstore.google.com/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) |
-| **Blockify Ad Blocker** | Блокировщик рекламного контента на Spotify. | [Интернет-магазин Chrome](https://chromewebstore.google.com/detail/spotify-ad-blocker-blocki/nfmlkliedggdodlbgghmmchhgckjoaml) |
-| **SponsorBlock** | Автоматический пропуск интеграций. | [Интернет-магазин Chrome](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) |
-## ⚙️ Конфигурации и ПО
-> **Важно:** Если данные файлы не поддерживаются на вашем ПК, откройте оригинальные репозитории и выберите релиз под ваши характеристики (x86/x64, версия OS).
-* **[zapret (Flowseal)](https://github.com/Flowseal/zapret-discord-youtube):** Средство для тонкой настройки сетевых пакетов и обхода ограничений на уровне DPI.
-* **[Throne](https://github.com/throneproj/Throne):** Универсальный менеджер для автоматизации сценариев доступа к сетевым ресурсам и игровым сервисам.
-* **[White-list configs](https://github.com/igareck/vpn-configs-for-russia):** Оптимизированные наборы правил от `igareck` для стабильной работы соединений.
+A quick-setup toolkit for configuring workstations in computer clubs — browser extensions, network tools, and DPI bypass configs bundled in one place.
 
 ---
 
-### ⚠️ Дисклеймер
+## 🧩 Browser Extensions
 
-> **Внимание:** Данный репозиторий создан исключительно в ознакомительных и образовательных целях. Автор не призывает к нарушению законодательства и не несет ответственности за использование данных инструментов в противоправных целях. Всё ПО используется пользователем на свой страх и риск.
+| Name | Description | Link |
+| :--- | :--- | :--- |
+| **UltraSurf** | Privacy and access tool for restricted networks. | [Chrome Web Store](https://chromewebstore.google.com/detail/ultrasurf-security-privac/mjnbclmflcpookeapghfhapeffmpodij) |
+| **Adblock for YouTube** | Removes ads on YouTube. | [Chrome Web Store](https://chromewebstore.google.com/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) |
+| **Blockify Ad Blocker** | Removes ads on Spotify. | [Chrome Web Store](https://chromewebstore.google.com/detail/spotify-ad-blocker-blocki/nfmlkliedggdodlbgghmmchhgckjoaml) |
+| **SponsorBlock** | Auto-skips sponsored segments in YouTube videos. | [Chrome Web Store](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) |
 
-## **Помните о соблюдении правил кибербезопасности и уважайте сетевую гигиену.**
+---
+
+## ⚙️ Tools & Configs
+
+> **Note:** If the included binaries don't work on your machine, visit the original repositories and download the release that matches your architecture (x86/x64) and OS version.
+
+- **[zapret (Flowseal)](https://github.com/Flowseal/zapret-discord-youtube)** — Low-level packet shaping tool for bypassing DPI-based restrictions on Discord and YouTube.
+- **[Throne](https://github.com/throneproj/Throne)** — Automation manager for network access scenarios and gaming services.
+- **[White-list configs](https://github.com/igareck/vpn-configs-for-russia)** — Optimized routing rules by `igareck` for stable connections on restricted networks.
+
+---
+
+## ⚠️ Disclaimer
+
+This repository is provided for **informational and educational purposes only**. The author does not encourage any violation of applicable laws and accepts no responsibility for misuse of the tools listed here. All software is used at your own risk.
+
+**Practice good network hygiene and respect the rules of your network environment.**
