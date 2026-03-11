@@ -21,6 +21,7 @@ A quick-setup toolkit for configuring workstations in computer clubs — browser
 
 - **[zapret (Flowseal)](https://github.com/Flowseal/zapret-discord-youtube)** — Low-level packet shaping tool for bypassing DPI-based restrictions on Discord and YouTube.
 - **[Throne](https://github.com/throneproj/Throne)** — Automation manager for network access scenarios and gaming services.
+- **[v2rayN](https://github.com/2dust/v2rayN)** — Lightweight GUI client for Windows. A reliable alternative to Throne if TUN mode gives you trouble.
 - **[White-list configs](https://github.com/igareck/vpn-configs-for-russia)** — Optimized routing rules by `igareck` for stable connections on restricted networks.
 
 ---
